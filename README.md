@@ -1,1 +1,1 @@
-# CokorPicker
+# ColorPicker
